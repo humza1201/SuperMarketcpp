@@ -1,0 +1,8 @@
+Customer Name: John Doe
+Address: 123 Main St
+Phone: 555-1234
+Email: john@123gmail.com
+Product Name: Laptop
+Quantity: 2
+Price per Unit: $799.99
+Total Price: $1599.98
